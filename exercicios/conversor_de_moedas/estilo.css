@@ -1,0 +1,102 @@
+body, html{
+
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+body{
+
+    background-color: rgb(126, 236, 126);
+
+}
+
+.principal{
+
+    width: 400px;
+    height: auto;
+
+    margin-top: 100px;
+    margin-left: 300px;
+
+    background-color: white;
+
+    box-shadow: 3px 3px 3px black;
+}
+
+.principal form{
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.principal form p{
+
+    outline: 2px solid red;
+    padding: 3px;
+
+    color: red;
+
+    background-color: rgb(245, 170, 170);
+
+}
+
+.principal form select{
+
+    width: 180px;
+    height: 25px;
+
+    border: 2px solid greenyellow;
+
+    margin-bottom: 15px;
+
+
+    margin-left: 25px;
+
+}
+
+
+.principal form label{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    color: rgb(3, 61, 3);
+    font-size: large;
+
+    margin-left: 25px;
+
+}
+
+
+.principal form .info{
+
+    width: 180px;
+    height: 25px;
+
+    border: 2px solid greenyellow;
+
+    margin-bottom: 15px;
+
+
+    margin-left: 25px;
+
+
+
+}
+
+
+.principal form .botao{
+
+    width: 100px;
+    height: 40px;
+
+    background-color: rgb(124, 231, 124);
+
+    margin: 15px;
+
+}
+
+

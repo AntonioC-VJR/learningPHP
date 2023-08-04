@@ -62,7 +62,7 @@ body {
 
 }
 
-.l_form form .dados:clicker{
+.l_form form .dados:focus{
 
     border: none;
     background-color: #bdf3a3;
